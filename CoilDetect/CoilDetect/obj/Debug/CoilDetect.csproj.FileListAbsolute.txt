@@ -1,0 +1,560 @@
+E:\programming\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe.config
+E:\programming\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe
+E:\programming\CoilDetect\CoilDetect\bin\Debug\CoilDetect.pdb
+E:\programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+E:\programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+E:\programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+E:\programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.exe
+E:\programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.exe
+G:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe
+G:\CoilDetect\CoilDetect\bin\Debug\CoilDetect.pdb
+G:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+G:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+G:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+G:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+G:\Programming\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\Programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.exe
+G:\Programming\CoilDetect\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\Programming\Project\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.exe
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\Programming\Project\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe
+G:\Programming\Project\CoilDetect\CoilDetect\bin\Debug\CoilDetect.pdb
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe.config
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\bin\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\Interop.Office.dll
+C:\Users\LFD\Desktop\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+I:\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe.config
+I:\CoilDetect\CoilDetect\obj\Debug\Interop.Office.dll
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.exe
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.pdb
+I:\CoilDetect\CoilDetect\bin\Debug\CoilDetect.exe
+I:\CoilDetect\CoilDetect\bin\Debug\CoilDetect.pdb
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+I:\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\Interop.Office.dll
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+G:\Programming\Project\CoilDetect\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\bin\Debug\CoilDetect.exe.config
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\Interop.Office.dll
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\bin\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\CoilDetect-module-trial\CoilDetect\bin\Debug\CoilDetect.pdb
+J:\CoilDetect-moduletrial\CoilDetect\bin\Debug\CoilDetect.exe.config
+J:\CoilDetect-moduletrial\CoilDetect\obj\Debug\Interop.Office.dll
+J:\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+J:\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.exe
+J:\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\bin\Debug\CoilDetect.exe.config
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\Interop.Office.dll
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\bin\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\bin\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+C:\Users\LFD\Desktop\src\CoilDetect-moduletrial\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+L:\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.exe.config
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.exe
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.pdb
+L:\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.exe
+L:\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.pdb
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+L:\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.exe.config
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\Interop.Office.dll
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.exe
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\bin\Debug\CoilDetect.pdb
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+C:\Users\LFD\Desktop\CoilDetect-module\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-two\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-three\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-four\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\bin\Debug\CoilDetect.exe.config
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\Interop.Office.dll
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.exe
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.pdb
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\bin\Debug\CoilDetect.exe
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\bin\Debug\CoilDetect.pdb
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+E:\programming\Postgraduate Project\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\bin\Debug\CoilDetect.exe.config
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\Interop.Office.dll
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.exe
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.pdb
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\bin\Debug\CoilDetect.exe
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\bin\Debug\CoilDetect.pdb
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-five\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.exe.config
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\Interop.Office.dll
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.exe
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.pdb
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.exe
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.pdb
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+E:\programming\Postgraduate Project\建工\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.exe
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\bin\Debug\CoilDetect.pdb
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\Interop.Office.dll
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.exe
+G:\Programming\Project\CoilDetect\CoilDetect-module-six\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-seven\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.exe
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\bin\Debug\CoilDetect.exe
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\bin\Debug\CoilDetect.pdb
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+G:\交通学院\Coil\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-eight\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.NewCoilIpConfig.resources
+D:\Users\a\Desktop\CoilDetect-module-9.0\CoilDetect\obj\Debug\CoilDetect.OldCoilIPConfig.resources
+H:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+H:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+H:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.exe
+H:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.pdb
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\Interop.Office.dll
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.exe
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.pdb
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.exe
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.pdb
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.NewCoilIpConfig.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.OldCoilIPConfig.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+K:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.exe
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.exe
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\bin\Debug\CoilDetect.pdb
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.NewCoilIpConfig.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.OldCoilIPConfig.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.UserControlC.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.UserControlP.resources
+G:\交通学院\Coil\CoilDetect-module-10.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\3DViewer1.0\CoilDetect-final1.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\3DViewer1.0\CoilDetect-final1.0\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\3DViewer1.0\CoilDetect-final1.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\3DViewer1.0\CoilDetect-final1.0\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\3DViewer1.0\CoilDetect-final1.0\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+D:\Users\a\Desktop\CoilDetect-final2.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\bin\Debug\IrisSkin4.dll
+D:\Users\a\Desktop\CoilDetect-final3.0\CoilDetect\obj\Debug\CoilDetect.Skin.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Skin.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+D:\Users\a\Desktop\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.exe
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.exe
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.pdb
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Skin.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+K:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+K:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\Interop.Office.dll
+K:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+K:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.exe
+K:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.pdb
+G:\交通学院\4.0\CoilDetect-final4.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\Interop.Office.dll
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.pdb
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Skin.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.ChuanKouSImControl.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CoilDetectSimControl.resources
+D:\Users\a\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CoilSimulateControl.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.exe
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.pdb
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.pdb
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.ChuanKouSImControl.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CoilDetectSimControl.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CoilSimulateControl.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Skin.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+C:\Users\DFL\Desktop\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache
+C:\Users\DFL\Desktop\9.26 交通学院\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+C:\Users\DFL\Desktop\9.26 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+C:\Users\DFL\Desktop\9.26 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.exe
+C:\Users\DFL\Desktop\9.26 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.pdb
+J:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+J:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+J:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.exe
+J:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.pdb
+I:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+I:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\Interop.Office.dll
+I:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+I:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.exe
+I:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.pdb
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe.config
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.ResolveComReference.cache
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.exe
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.pdb
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.exe
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\bin\Debug\CoilDetect.pdb
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csprojResolveAssemblyReference.cache
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.ChuanKouSImControl.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CoilDetectSimControl.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CoilSimulateControl.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.CopyRight.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Form1.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Login.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.ModuleManege.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlAReName.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlCReName.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlPReName.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlA.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlAReName.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlCReName.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlP.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlPReName.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRIpConfig.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.NewControlC.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDIPConfig.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Properties.Resources.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlA.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlC.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.MUDControlP.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.SJRControlC.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Skin.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.Subscribe.resources
+E:\交通学院\10.23 交通学院\CoilDetect-final5.0\CoilDetect\obj\Debug\CoilDetect.csproj.GenerateResource.Cache

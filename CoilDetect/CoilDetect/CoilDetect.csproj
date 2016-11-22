@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E59C29F-B657-47C9-8868-2E732C817E39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoilDetect</RootNamespace>
+    <AssemblyName>CoilDetect</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin4">
+      <HintPath>..\..\IrisSkin4.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChuanKouSImControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChuanKouSImControl.Designer.cs">
+      <DependentUpon>ChuanKouSImControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoilDetectSimControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CoilDetectSimControl.Designer.cs">
+      <DependentUpon>CoilDetectSimControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoilSimulateControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CoilSimulateControl.Designer.cs">
+      <DependentUpon>CoilSimulateControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CopyRight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CopyRight.Designer.cs">
+      <DependentUpon>CopyRight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuleManege.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleManege.Designer.cs">
+      <DependentUpon>ModuleManege.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDControlAReName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUDControlAReName.Designer.cs">
+      <DependentUpon>MUDControlAReName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDControlCData.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDControlCReName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUDControlCReName.Designer.cs">
+      <DependentUpon>MUDControlCReName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDControlPReName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUDControlPReName.Designer.cs">
+      <DependentUpon>MUDControlPReName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlAReName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SJRControlAReName.Designer.cs">
+      <DependentUpon>SJRControlAReName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlCReName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SJRControlCReName.Designer.cs">
+      <DependentUpon>SJRControlCReName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlPReName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SJRControlPReName.Designer.cs">
+      <DependentUpon>SJRControlPReName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRIpConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SJRIpConfig.Designer.cs">
+      <DependentUpon>SJRIpConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewControlC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewControlC.Designer.cs">
+      <DependentUpon>NewControlC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDIPConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUDIPConfig.Designer.cs">
+      <DependentUpon>MUDIPConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MUDControlA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MUDControlA.Designer.cs">
+      <DependentUpon>MUDControlA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDControlC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MUDControlC.Designer.cs">
+      <DependentUpon>MUDControlC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUDControlP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MUDControlP.Designer.cs">
+      <DependentUpon>MUDControlP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SJRControlA.Designer.cs">
+      <DependentUpon>SJRControlA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SJRControlC.Designer.cs">
+      <DependentUpon>SJRControlC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SJRControlP.Designer.cs">
+      <DependentUpon>SJRControlP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SJRControlCData.cs" />
+    <Compile Include="Skin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Skin.Designer.cs">
+      <DependentUpon>Skin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subscribe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subscribe.Designer.cs">
+      <DependentUpon>Subscribe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChuanKouSImControl.resx">
+      <DependentUpon>ChuanKouSImControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoilDetectSimControl.resx">
+      <DependentUpon>CoilDetectSimControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoilSimulateControl.resx">
+      <DependentUpon>CoilSimulateControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CopyRight.resx">
+      <DependentUpon>CopyRight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuleManege.resx">
+      <DependentUpon>ModuleManege.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDControlAReName.resx">
+      <DependentUpon>MUDControlAReName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDControlCReName.resx">
+      <DependentUpon>MUDControlCReName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDControlPReName.resx">
+      <DependentUpon>MUDControlPReName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRControlA.resx">
+      <DependentUpon>SJRControlA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRControlAReName.resx">
+      <DependentUpon>SJRControlAReName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRControlCReName.resx">
+      <DependentUpon>SJRControlCReName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRControlP.resx">
+      <DependentUpon>SJRControlP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRControlPReName.resx">
+      <DependentUpon>SJRControlPReName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRIpConfig.resx">
+      <DependentUpon>SJRIpConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewControlC.resx">
+      <DependentUpon>NewControlC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDIPConfig.resx">
+      <DependentUpon>MUDIPConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDControlA.resx">
+      <DependentUpon>MUDControlA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDControlC.resx">
+      <DependentUpon>MUDControlC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUDControlP.resx">
+      <DependentUpon>MUDControlP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SJRControlC.resx">
+      <DependentUpon>SJRControlC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Skin.resx">
+      <DependentUpon>Skin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subscribe.resx">
+      <DependentUpon>Subscribe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Office">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>99</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_Box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newCoil.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newCoil1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_me.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_me1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\v_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vissim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manage_副本.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circuit-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10-128本.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Traffic_Signal-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videodetect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videoSG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videoSW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SJR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MUD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menutool_bc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\线圈.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P50720-093520.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P50720-0935201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P50720-093528.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\串口.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2010128101731.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\串口_副本.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\串口_副本_副本.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\串口_副本_副本1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\串口_副本1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\串口_副本2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
